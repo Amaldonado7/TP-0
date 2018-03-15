@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: #D5D5D5;
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+}
+
+.main-container {
+  border: 0,5px solid;
+  width: 90%;
+  height: 700px;
+  margin: 60px auto;
+  text-align: center;
+  background-color: #9099A2;
+}
+
+.banner {
+  width: 95%;
+  margin: 30px auto;
+  border: 0,5px solid;
+}
+
+.mail {
+  display: inline-block;
+}
+
+.redes{
+  text-align: right;
+  margin-right: 15%;
+}
+
+.redes img{
+  height: 30px;
+  width: 30px;
+  margin-top: 5px
+}
